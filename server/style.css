@@ -1,0 +1,65 @@
+.bg_primary {
+	background-color: #03a9f4 !important;
+}
+.bg_primary_dark {
+	background-color: #0288d1;
+}
+.accent, .btn-primary {
+ background-color: #ffab40;
+}
+
+
+.header {
+ color: white;
+ font-size: 3em;
+ height: 75px;
+ width: 100%;
+ margin: 0px;
+ padding: 0px;
+
+}
+.logo {
+ margin: 0 auto;
+ margin-left: 40px;
+ vertical-align:middle; 
+ font-weight: bold;
+ height: 100%;
+ 
+}
+a:link.menu_item, a:visited.menu_item, a:hover.menu_item, a:active.menu_item {
+ color: white;
+ text-decoration: none;
+ font-size: 0.5em;
+ margin-left: 40px;
+ vertical-align: middle;
+
+}
+.menu_item {
+ height: 100%;
+
+}
+
+.body {
+ width: 90%;
+ margin: 0 auto;
+ margin-top: 50px;
+}
+.device>.name{
+ font-size: 1.5em;
+ color: #bdbdbd !important;
+}
+
+.slider,.slider_horizontal {
+ margin-left: 50px;
+ width: 60% !important;
+}
+.slider-handle {
+ background-color: #ffab40 !important;
+ background-image: none;
+}
+.slider-selection {
+ background-image: none;
+ background-color: #ffab40;
+}
+
+
